@@ -12,6 +12,8 @@ namespace QuanLy
         static void Main(string[] args)
         {
             Application.EnableVisualStyles();
+            //Choi lien minh huyen thoai hay hon
+            //Cuoc doi con dai```
             Application.SetCompatibleTextRenderingDefault(false);
             frmLogin fLog = new frmLogin();
             Application.Run(fLog);

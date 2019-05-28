@@ -19,6 +19,7 @@ namespace QuanLy
             Application.Run(fLog);
             //frmConnection frmcon = new frmConnection();
            // Application.Run(frmcon);
+           //123
         }
     }
 }
